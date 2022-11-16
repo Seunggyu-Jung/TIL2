@@ -18,7 +18,7 @@
 
 ## 7. [타입 변환과 단축 평가](https://github.com/ThovenhairWorrior/TIL2/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%94%A5%20%EB%8B%A4%EC%9D%B4%EB%B8%8C%20readme%20%ED%8C%8C%EC%9D%BC/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%209%EC%9E%A5.md)
 
-## 8. [객체 리터럴]()
+## 8. [객체 리터럴](https://github.com/ThovenhairWorrior/TIL2/blob/main/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%94%A5%20%EB%8B%A4%EC%9D%B4%EB%B8%8C%20readme%20%ED%8C%8C%EC%9D%BC/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%2010%EC%9E%A5.md)
 
 
 # 2. 2022년 하반기 프로젝트 
